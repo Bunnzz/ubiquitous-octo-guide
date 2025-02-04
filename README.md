@@ -86,4 +86,4 @@ venv/
 .coverage
 
 ## Collaboration
-This dictionary is a living document, and is open to feedback and suggestions from others. If you have any ideas or insights that you'd like to share, please feel free to contribute to the dictionary.
+This dictionary is a personal document for my use.
